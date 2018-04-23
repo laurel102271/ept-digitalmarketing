@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Digital marketing</title>
+		<meta charset="utf-8">
+		<title>Marketing Resume</title>
 	</head>
 	<body>
-		<H1>Purpose</H1><p>I want my website to attract business owners in the El Paso Texas area in need of a business website and to help the client grow there customer base by building them a website and ranking them on the first page of google with a marketing campaign that will use keywords and seo. </p>
-		<h1>Audience</h1><p>My target audience will be male and female demographics between the age of 18-65 years old who are in need of a business website.</p>
+		<h1>Purpose</h1>
+		<p>This project will be a personal website with a focus on showing my skills to potential employers.</p>
+		<h1>Audience</h1><p>My target audience will be marketing agencies looking to hire digital maketing specialist or a freelancer.</p>
 		<h1>Goals</h1>
 		<ul>
-			<li>To acquire 4 new business per month for the first 6 months. </li>
-			<li>To make physical contact with 5 business owners per day and talk about there business goals for growing there business. </li>
-			<li>To make 20 phone calls per day to small business owners. </li>
+			<li>To acquire a job within 3 months. </li>
+			<li>To send out my resume to  all potential employers. </li>
+			<li>To make 5 phone calls per day to digital marketing agencies looking to hire. </li>
 		</ul>
 		<h1>Persona</h1>
-		<p>The demographics that I will target are male and female clients between the ages of 18-65 years of age that are self employed and are accustomed to  diffrent technology platform as example apple or android and are looking for help growing there business through a business website. Most small business owners that I will target will have been operating a business without a website and it  will be my marketing objective to convince them on their opinion that they do need a website when there behavior and actions have shown that they dont strongly believe in building a website. The way I plan on building the clients website will be to have a understanding of the clients business and implement that into a website with a form and linking the website with a google adwords and also providing seo for organic ranking in google search engines. </p>
+		<p>Name: Daniel Martinez</p>
+		<p>Age: 46.</p>
+		<p>Background: Google AdWords certified and Google Analytics certified with skills and experience in  Digital Marketing, including paid  and lead  generation,  analytics,  social  media,  display advertising, landing page optimization, and creative work. Out-of-the-box creative problem solver, capable of meeting deadlines under pressure. Detail oriented with exceptional communication skills (verbal/written). </p>
+		<p>Education:  Business Skills Institute Certified as a Network Tech, Real Estate License Holder, Google Adwords Certified Google Analytics Certified .</p>
+		<p>Fears and Frustrations:
+		<ul>
+			<li>Learning new technology skills </li>
+			<li>Very competitive job market.</li>
+			<li>Getting stuck in a job and not advancing</li>
+		</ul>
 	</body>
 </html>
